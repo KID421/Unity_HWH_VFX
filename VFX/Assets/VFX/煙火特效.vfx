@@ -39,31 +39,10 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614918}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614919}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614922}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614925}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614976}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614940}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614997}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614941}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614945}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614974}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614916}
@@ -80,37 +59,13 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614907}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614908}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614876}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614877}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614911}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614912}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614913}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614879}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614880}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614891}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614894}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615003}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614948}
@@ -155,8 +110,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 532
     y: -333
-    width: 1847
-    height: 2880
+    width: 1738
+    height: 2861
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4893,7 +4848,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d78581a96eae8bf4398c282eb0b098bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
